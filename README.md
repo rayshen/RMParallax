@@ -1,4 +1,6 @@
 # RMParallax
+![iOS Simulator Screen Shot 2015年8月1日 下午9.23.11.png](https://ooo.0o0.ooo/2015/08/01/55bcc873104a9.png "iOS Simulator Screen Shot 2015年8月1日 下午9.23.11.png")
+
 The way to impress users on the first app launch.
 
 Created by Raphael Miller and Michael Babiy.
